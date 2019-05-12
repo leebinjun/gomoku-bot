@@ -3,8 +3,8 @@
 
 
 版本：
-0.带UI
-1.coreXY版本
-2.raspberry+机械臂版本
+v0.1 UI
+v1.0 coreXY版本
+v2.0 raspberry+机械臂
 
 
