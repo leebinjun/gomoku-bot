@@ -9,7 +9,7 @@
 
 | Demo1 | Demo2 |
 |:---------|:--------------------|
-| ![demo1](/v1.0/etcs/demo1.gif)     | ![demo2](/etcs/demo2.gif) |
+| ![demo1](/v1.0/etcs/demo1.gif)     | ![demo2](/v1.0/etcs/demo2.gif) |
 
 
 ## 参考资料
