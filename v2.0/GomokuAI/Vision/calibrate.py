@@ -127,7 +127,7 @@ if __name__ == '__main__':
     # print("读取参数：", mtx, dist)    
 
     # test
-    image_path = r'C:\Users\Administrator\Desktop\GomokuAI\Data\origin\test1537258808.1986222.jpg'
+    image_path = r'.\Data\origin\test1529485811.7369244.jpg'
     a_temp.test(image_path)
     
 
