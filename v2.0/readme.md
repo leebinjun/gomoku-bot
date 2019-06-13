@@ -1,5 +1,5 @@
 
-## coreXY版本  
+## 机械臂版本  
 * DFS
 * 机械臂 Lebot
 * 语音模块 WEGASUN-M6
