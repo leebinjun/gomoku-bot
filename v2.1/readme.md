@@ -1,9 +1,9 @@
 
 ## 机械臂版本（学弟优化版）  
-* DFS
-* 机械臂 Lebot
-* 语音模块 WEGASUN-M6
-
+* DFS  
+* 机械臂 Lebot  
+* 语音模块 WEGASUN-M6  
+* 识别 CNN  
 
 ## Demo
 
