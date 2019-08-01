@@ -1,8 +1,5 @@
 
 ## 机械臂版本（学弟优化版）  
-
-https://github.com/willwoodson/Gobang
-
 * DFS  
 * 机械臂 Lebot  
 * 语音模块 WEGASUN-M6  
